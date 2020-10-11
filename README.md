@@ -5,7 +5,8 @@ solution of problems !!
 
 | Problem | Solution |
 |:--:|:--:|
-| [Game of Maximization](https://www.hackerrank.com/contests/hackerrank-hackfest-2020/challenges/stones-piles) | [Game_of_Maximization.cpp](Game_of_Maximization.cpp) 
+| [Game of Maximization](https://www.hackerrank.com/contests/hackerrank-hackfest-2020/challenges/stones-piles) | [Game_of_Maximization.cpp](Game_of_Maximization.cpp)
+| [Strictly_Increasing_Sequence](https://www.hackerrank.com/contests/hackerrank-hackfest-2020/challenges/strictly-increasing-sequence) | [Strictly_Increasing_Sequence.cpp](Strictly_Increasing_Sequence.cpp) 
 
 ### Need help?
 
