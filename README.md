@@ -1,5 +1,12 @@
 # HackFest-HackerRank2020
 solution of problems !!
+
+
+
+| Problem | Solution |
+|:--:|:--:|
+| [Game of Maximization](https://www.hackerrank.com/contests/hackerrank-hackfest-2020/challenges/stones-piles) | [Game_of_Maximization.cpp](Game_of_Maximization.cpp) 
+
 ### Need help?
 
 ```
